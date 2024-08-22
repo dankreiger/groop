@@ -81,7 +81,7 @@
     "scripty": "2.1.1",
     "semantic-release": "19.0.5",
     "size-limit": "8.1.0",
-    "sort-package-json": "1.57.0",
+    "sort-package-json": "2.10.1",
     "ts-jest": "29.1.4",
     "ts-node": "10.9.2",
     "tslib": "2.6.3",
